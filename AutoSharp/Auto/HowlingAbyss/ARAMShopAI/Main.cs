@@ -64,8 +64,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Ahri =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Liandry's Torment"
+            "Morellonomicon", "Abyssal Scepter",
+            "Sorcerer's Shoes", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Akali =
@@ -76,128 +76,128 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Alistar =
         {
-            "Face of the Mountain", "Frozen Heart",
-            "Mercury's Treads", "Thornmail", "Locket of the Iron Solari", "Banshee's Veil"
+            "Rod of Ages", "Abyssal Scepter",
+            "Sorcerer's Shoes", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Amumu =
         {
-            "Liandry's Torment", "Abyssal Scepter",
-            "Boots of Mobility", "Sunfire Cape", "Rylai's Crystal Scepter", "Warmog's Armor"
+            "Abyssal Scepter", "Rylai's Crystal Scepter",
+            "Mercury's Treads", "Spirit Visage", "Sunfire Cape", "Rabadon's Deathcap"
         };
 
         public static string[] Anivia =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
+            "Rod of Ages", "Morellonomicon",
             "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Liandry's Torment"
         };
 
         public static string[] Annie =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Luden's Echo"
+            "Rod of Ages", "Rylai's Crystal Scepter",
+            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
         };
 
         public static string[] Ashe =
         {
-            "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Infinity Edge", "Runaan's Hurricane",
+            "Berserker's Greaves", "Mercurial Scimitar", "Lord Dominik's Regards", "Banshee's Veil"
         };
 
         public static string[] Azir =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Rylai's Crystal Scepter", "Luden's Echo"
+            "Nashor's Tooth", "Rylai's Crystal Scepter",
+            "Sorcerer's Shoes", "Morellonomicon", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Bard =
         {
-            "Talisman of Ascension", "Frozen Heart",
-            "Boots of Mobility", "Locket of the Iron Solari", "Mikael's Crucible", "Ardent Censer"
+            "Infinity Edge", "Statikk Shiv",
+            "Berserker's Greaves", "Maw of Malmortius", "The Bloodthirster", "Sterak's Gage"
         };
 
         public static string[] Blitzcrank =
         {
-            "Face of the Mountain", "Frozen Heart",
-            "Mercury's Treads", "Thornmail", "Locket of the Iron Solari", "Banshee's Veil"
+            "Rod of Ages", "Iceborn Gauntlet",
+            "Mercury's Treads", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Brand =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Liandry's Torment"
+            "Morellonomicon", "Rylai's Crystal Scepter",
+            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Liandry's Torment"
         };
 
         public static string[] Braum =
         {
-            "Face of the Mountain", "Frozen Heart",
-            "Mercury's Treads", "Thornmail", "Locket of the Iron Solari", "Banshee's Veil"
+            "Iceborn Gauntlet", "Trinity Force",
+            "Mercury's Treads", "Maw of Malmortius", "Titanic Hydra", "Sterak's Gage"
         };
 
         public static string[] Caitlyn =
         {
-            "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Infinity Edge", "Berserker's Greaves",
+            "Runaan's Hurricane", "Mercurial Scimitar", "Rapid Firecannon", "The Bloodthirster"
         };
 
         public static string[] Cassiopeia =
         {
-            "Archangel's Staff", "Liandry's Torment",
+            "Rod of Ages", "Rylai's Crystal Scepter",
             "Sorcerer's Shoes", "Rabadon's Deathcap", "Zhonya's Hourglass", "Luden's Echo"
         };
 
         public static string[] Chogath =
         {
-            "Randuin's Omen", "Abyssal Scepter",
-            "Ninja Tabi", "Spirit Visage", "Wit's End", "Locket of the Iron Solari"
+            "Rod of Ages", "Abyssal Scepter",
+            "Mercury's Treads", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Corki =
         {
-            "Trinity Force", "Statikk Shiv", "Berserker's Greaves",
+            "Trinity Force", "Sorcerer's Shoes", "Maw of Malmortius",
             "The Bloodthirster", "Infinity Edge", "Banshee's Veil"
         };
 
         public static string[] Darius =
         {
-            "The Bloodthirster", "Ravenous Hydra (Melee Only)",
-            "Mercury's Treads", "Randuin's Omen", "Banshee's Veil", "Trinity Force"
+            "The Bloodthirster", "Ravenous Hydra",
+            "Mercury's Treads", "Dead Man's Plate", "Banshee's Veil", "Trinity Force"
         };
 
         public static string[] Diana =
         {
-            "Lich Bane", "Void Staff", "Rabadon's Deathcap",
-            "Sorcerer's Shoes", "Zhonya's Hourglass", "Luden's Echo"
+            "Rod of Ages", "Abyssal Scepter", "Sorcerer's Shoes",
+            "Rabadon's Deathcap", "Zhonya's Hourglass", "Void Staff"
         };
 
         public static string[] DrMundo =
         {
             "Warmog's Armor", "Liandry's Torment",
-            "Mercury's Treads", "Abyssal Scepter", "Thornmail", "Warmog's Armor"
+            "Mercury's Treads", "Abyssal Scepter", "Thornmail", "Banshee's Veil"
         };
 
         public static string[] Draven =
         {
-            "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Youmuu's Ghostblade", "Boots of Swiftness",
+            "Statikk Shiv", "Mercurial Scimitar", "Infinity Edge", "Mortal Reminder"
         };
 
         public static string[] Ekko =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Lich Bane"
+            "Lich Bane", "Morellonomicon",
+            "Sorcerer's Shoes", "Rabadon's Deathcap", "Abyssal Scepter", "Frozen Mallet"
         };
 
         public static string[] Elise =
         {
-            "Liandry's Torment", "Athene's Unholy Grail",
+            "Rod of Ages", "Zhonya's Hourglass",
             "Sorcerer's Shoes", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff",
         };
 
         public static string[] Evelynn =
         {
-            "Rylai's Crystal Scepter", "Liandry's Torment",
-            "Sorcerer's Shoes", "Abyssal Scepter", "Zhonya's Hourglass", "Rabadon's Deathcap"
+            "Rod of Ages", "Lich Bane", "Sorcerer's Shoes",
+            "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Zhonya's Hourglass"
         };
 
         public static string[] Ezreal =
@@ -208,20 +208,20 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] FiddleSticks =
         {
-            "Athene's Unholy Grail", "Will of the Ancients",
+            "Athene's Unholy Grail", "Spirit Visage",
             "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Liandry's Torment"
         };
 
         public static string[] Fiora =
         {
-            "Ravenous Hydra (Melee Only)", "Statikk Shiv",
-            "Ninja Tabi", "Blade of the Ruined King", "Spirit Visage", "Randuin's Omen"
+            "Ravenous Hydra", "The Black Cleaver",
+            "Mercury's Treads", "Spirit Visage", "Sterak's Gage", "The Bloodthirster"
         };
 
         public static string[] Fizz =
         {
-            "Lich Bane", "Void Staff", "Rabadon's Deathcap",
-            "Sorcerer's Shoes", "Zhonya's Hourglass", "Luden's Echo"
+            "Lich Bane", "Sorcerer's Shoes", "Rabadon's Deathcap",
+            "Zhonya's Hourglass", "Void Staff", "Luden's Echo"
         };
 
         public static string[] Galio =
@@ -233,7 +233,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Gangplank =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Garen =
@@ -250,19 +250,19 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Gragas =
         {
-            "Rod of Ages", "Ionian Boots of Lucidity",
-            "Rabadon's Deathcap", "Abyssal Scepter", "Void Staff", "Zhonya's Hourglass"
+            "Morellonomicon", "Lich Bane",
+            "Ionian Boots of Lucidity", "Rabadon's Deathcapr", "Void Staff", "Zhonya's Hourglass"
         };
 
         public static string[] Graves =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Hecarim =
         {
-            "Ravenous Hydra (Melee Only)", "Trinity Force",
+            "Ravenous Hydra", "Trinity Force",
             "Ninja Tabi", "Frozen Mallet", "Blade of the Ruined King", "Statikk Shiv"
         };
 
@@ -286,7 +286,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] JarvanIV =
         {
-            "The Black Cleaver", "Ravenous Hydra (Melee Only)",
+            "The Black Cleaver", "Ravenous Hydra",
             "Mercury's Treads", "Statikk Shiv", "Warmog's Armor", "Randuin's Omen"
         };
 
@@ -304,14 +304,14 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Jinx =
         {
-            "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Infinity Edge", "Statikk Shiv",
+            "Berserker's Greaves", "Essence Reaver", "Mercurial Scimitar", "Lord Dominik's Regards"
         };
 
         public static string[] Kalista =
         {
-            "Blade of the Ruined King", "The Bloodthirster", "Runaan's Hurricane (Ranged Only)",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv"
+            "The Black Spear", "Blade of the Ruined King", "Runaan's Hurricane", "Berserker's GreavesM",
+            "Mercurial Scimitar", "Infinity Edge"
         };
 
         public static string[] Karma =
@@ -328,20 +328,20 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Kassadin =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rod of Ages", "Void Staff", "Rabadon's Deathcap"
+            "Athene's Unholy Grail", "Zhonya's Hourglass",
+            "Sorcerer's Shoes", "Rod of Ages", "Abyssal Scepter", "Rabadon's Deathcap"
         };
 
         public static string[] Katarina =
         {
             "Liandry's Torment", "Void Staff", "Rabadon's Deathcap",
-            "Sorcerer's Shoes", "Hextech Gunblade", "Luden's Echo"
+            "Sorcerer's Shoes", "Abyssal Scepter", "Luden's Echo"
         };
 
         public static string[] Kayle =
         {
-            "Nashor's Tooth", "Runaan's Hurricane (Ranged Only)",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Liandry's Torment", "Void Staff"
+            "Guinsoo's Rageblade", "Runaan's Hurricane",
+            "Sorcerer's Shoes", "Nashor's Tooth", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Kennen =
@@ -352,26 +352,26 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Khazix =
         {
-            "The Bloodthirster", "Ravenous Hydra (Melee Only)",
+            "The Bloodthirster", "Ravenous Hydra",
             "Ninja Tabi", "Maw of Malmortius", "Statikk Shiv", "The Black Cleaver"
         };
 
         public static string[] KogMaw =
         {
             "Infinity Edge", "The Bloodthirster",
-            "Berserker's Greaves", "Statikk Shiv", "Runaan's Hurricane (Ranged Only)", "Blade of the Ruined King"
+            "Berserker's Greaves", "Statikk Shiv", "Runaan's Hurricane", "Blade of the Ruined King"
         };
 
         public static string[] Leblanc =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
+            "Morellonomicon", "Abyssal Scepter",
             "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
         };
 
         public static string[] LeeSin =
         {
-            "Blade of the Ruined King", "Ravenous Hydra (Melee Only)",
-            "Mercury's Treads", "Sunfire Cape", "The Bloodthirster", "Statikk Shiv"
+            "Maw of Malmortius", "Ravenous Hydra",
+            "Mercury's Treads", "Dead Man's Plate", "Sterak's Gage", "Banshee's Veil"
         };
 
         public static string[] Leona =
@@ -389,7 +389,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Lucian =
         {
             "Infinity Edge", "Statikk Shiv", "The Bloodthirster",
-            "Berserker's Greaves", "Statikk Shiv", "Blade of the Ruined King"
+            "Berserker's Greaves", "Maw of Malmortius", "Blade of the Ruined King"
         };
 
         public static string[] Lulu =
@@ -424,32 +424,32 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] MasterYi =
         {
-            "Infinity Edge", "Statikk Shiv",
-            "The Bloodthirster", "Statikk Shiv", "Statikk Shiv", "Frozen Mallet"
+            "Infinity Edge", "Sunfire Cape",
+            "The Bloodthirster", "The Black Cleaver", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] MissFortune =
         {
-            "Infinity Edge", "Statikk Shiv", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Frozen Mallet"
+            "Infinity Edge", "Statikk Shiv", "Berserker's Greaves",
+            "Essence Reaver", "Mercurial Scimitar", "Lord Dominik's Regards"
         };
 
         public static string[] Mordekaiser =
         {
-            "Will of the Ancients", "Rabadon's Deathcap",
+            "Abyssal Scepter", "Rabadon's Deathcap",
             "Sorcerer's Shoes", "Spirit Visage", "Zhonya's Hourglass", "Liandry's Torment"
         };
 
         public static string[] Morgana =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Abyssal Scepter",
+            "Athene's Unholy Grail", "Abyssal Scepter",
+            "Sorcerer's Shoes", "Void Staff", "Liandry's Torment", "Rabadon's Deathcap",
         };
 
         public static string[] Nami =
         {
-            "Talisman of Ascension", "Frozen Heart",
-            "Boots of Mobility", "Locket of the Iron Solari", "Mikael's Crucible", "Ardent Censer"
+            "Athene's Unholy Grail", "Luden's Echo",
+            "Ionian Boots of Lucidity", "Rylai's Crystal Scepter", "Void Staff", "Rabadon's Deathcap"
         };
 
         public static string[] Nasus =
@@ -466,61 +466,61 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Nidalee =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
+            "Rod of Ages", "Luden's Echo",
+            "Sorcerer's Shoes", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Nocturne =
         {
-            "Ravenous Hydra (Melee Only)", "Blade of the Ruined King",
+            "Ravenous Hydra", "Blade of the Ruined King",
             "Berserker's Greaves", "Youmuu's Ghostblade", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Nunu =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
+            "Athene's Unholy Grail", "Sunfire Cape",
             "Ninja Tabi", "Rod of Ages", "Abyssal Scepter", "Rylai's Crystal Scepter"
         };
 
         public static string[] Olaf =
         {
-            "Ravenous Hydra (Melee Only)", "Blade of the Ruined King",
+            "Ravenous Hydra", "Blade of the Ruined King",
             "Mercury's Treads", "Frozen Heart", "Frozen Mallet", "Warmog's Armor"
         };
 
         public static string[] Orianna =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Void Staff", "Rabadon's Deathcap", "Liandry's Torment"
+            "Athene's Unholy Grail", "Liandry's Torment",
+            "Mercury's Treads", "Void Staff", "Rylai's Crystal Scepter", "Rabadon's Deathcap"
         };
 
         public static string[] Pantheon =
         {
             "Youmuu's Ghostblade", "The Black Cleaver",
-            "Mercury's Treads", "Sunfire Cape", "Warmog's Armor", "The Bloodthirster"
+            "Mercury's Treads", "Dead Man's Plate", "Maw of Malmortius", "Spirit Visage"
         };
 
         public static string[] Poppy =
         {
-            "Trinity Force", "Banshee's Veil",
-            "Ionian Boots of Lucidity", "Frozen Heart", "Hextech Gunblade", "Void Staff",
+            "Trinity Force", "Iceborn Gauntlet",
+            "Mercury's Treads", "Maw of Malmortius", "Dead Man's Plate", "Spirit Visage",
         };
 
         public static string[] Quinn =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane (Ranged Only)"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane"
         };
 
         public static string[] Rammus =
         {
-            "Ohmwrecker", "Randuin's Omen",
-            "Mercury's Treads", "Frozen Heart", "Banshee's Veil", "Warmog's Armor"
+            "Sunfire Cape", "Ninja Tabi",
+            "Dead Man's Plate", "Thornmail", "Spirit Visage", "Frozen Heart"
         };
 
         public static string[] RekSai =
         {
-            "Frozen Mallet", "Ravenous Hydra (Melee Only)",
+            "Frozen Mallet", "Ravenous Hydra",
             "Mercury's Treads", "Thornmail", "Spirit Visage", "Randuin's Omen"
         };
 
@@ -532,26 +532,26 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Rengar =
         {
-            "Youmuu's Ghostblade", "Ravenous Hydra (Melee Only)",
+            "Youmuu's Ghostblade", "Ravenous Hydra",
             "Ninja Tabi", "Statikk Shiv", "The Black Cleaver", "Frozen Mallet"
         };
 
         public static string[] Riven =
         {
-            "Youmuu's Ghostblade", "Ravenous Hydra (Melee Only)",
+            "Youmuu's Ghostblade", "Ravenous Hydra",
             "Ionian Boots of Lucidity", "The Black Cleaver", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Rumble =
         {
-            "Will of the Ancients", "Rabadon's Deathcap",
+            "Rod of Ages", "Rabadon's Deathcap",
             "Sorcerer's Shoes", "Spirit Visage", "Zhonya's Hourglass", "Liandry's Torment"
         };
 
         public static string[] Ryze =
         {
-            "Archangel's Staff", "Rod of Ages", "Frozen Heart", "Sorcerer's Shoes",
-            "Void Staff", "Will of the Ancients"
+            "Archangel's Staff", "Rod of Ages", "Sorcerer's Shoes", "Rabadon's Deathcap",
+            "Void Staff", "Zhonya's Hourglass"
         };
 
         public static string[] Sejuani =
@@ -562,7 +562,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Shaco =
         {
-            "Ravenous Hydra (Melee Only)", "Berserker's Greaves",
+            "Ravenous Hydra", "Berserker's Greaves",
             "Infinity Edge", "Statikk Shiv", "Trinity Force", "Youmuu's Ghostblade"
         };
 
@@ -575,7 +575,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Shyvana =
         {
             "Blade of the Ruined King", "Randuin's Omen",
-            "Mercury's Treads", "Spirit Visage", "Ravenous Hydra (Melee Only)", "Frozen Mallet"
+            "Mercury's Treads", "Spirit Visage", "Ravenous Hydra", "Frozen Mallet"
         };
 
         public static string[] Singed =
@@ -592,8 +592,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Sivir =
         {
-            "Infinity Edge", "The Bloodthirster",
-            "Berserker's Greaves", "Statikk Shiv", "Statikk Shiv", "Blade of the Ruined King"
+            "Infinity Edge", "Statikk Shiv",
+            "Berserker's Greaves", "Essence Reaver", "Mercurial Scimitar", "Lord Dominik's Regards"
         };
 
         public static string[] Skarner =
@@ -604,20 +604,20 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Sona =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
+            "Athene's Unholy Grail", "Luden's Echo",
+            "Ionian Boots of Lucidity", "Rylai's Crystal Scepter", "Void Staff", "Rabadon's Deathcap"
         };
 
         public static string[] Soraka =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
+            "Athene's Unholy Grail", "Luden's Echo",
+            "Ionian Boots of Lucidity", "Rylai's Crystal Scepter", "Void Staff", "Rabadon's Deathcap"
         };
 
         public static string[] Swain =
         {
-            "Athene's Unholy Grail", "Will of the Ancients",
-            "Sorcerer's Shoes", "Rod of Ages", "Rabadon's Deathcap", "Liandry's Torment"
+            "Rod of Ages", "Abyssal Scepter",
+            "Sorcerer's Shoes", "Rylai's Crystal Scepter", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Syndra =
@@ -628,13 +628,13 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] TahmKench =
         {
-            "Sunfire Cape", "Spirit Visage",
-            "Mercury's Treads", "Warmog's Armor", "Randuin's Omen", "Liandry's Torment"
+            "Trinity Force", "Iceborn Gauntlet",
+            "Mercury's Treads", "Dead Man's Plate", "Spirit Visage", "Sunfire Cape"
         };
 
         public static string[] Talon =
         {
-            "Ravenous Hydra (Melee Only)", "Youmuu's Ghostblade",
+            "Ravenous Hydra", "Youmuu's Ghostblade",
             "Ninja Tabi", "Statikk Shiv", "Maw of Malmortius", "Frozen Mallet"
         };
 
@@ -646,7 +646,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Teemo =
         {
-            "Nashor's Tooth", "Runaan's Hurricane (Ranged Only)",
+            "Nashor's Tooth", "Runaan's Hurricane",
             "Sorcerer's Shoes", "Rabadon's Deathcap", "Liandry's Torment", "Void Staff"
         };
 
@@ -658,19 +658,19 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Tristana =
         {
-            "Infinity Edge", "The Bloodthirster",
-            "Berserker's Greaves", "Statikk Shiv", "Statikk Shiv", "Blade of the Ruined King"
+            "Infinity Edge", "Berserker's Greaves",
+            "Runaan's Hurricane", "Mercurial Scimitar", "Rapid Firecannon", "Lord Dominik's Regards"
         };
 
         public static string[] Trundle =
         {
-            "Ravenous Hydra (Melee Only)", "Spirit Visage",
-            "Mercury's Treads", "Randuin's Omen", "Banshee's Veil", "Thornmail"
+            "Trinity Force", "Blade of the Ruined King",
+            "Mercury's Treads", "Titanic Hydra", "Dead Man's Plate", "Spirit Visage"
         };
 
         public static string[] Tryndamere =
         {
-            "Statikk Shiv", "Ravenous Hydra (Melee Only)",
+            "Statikk Shiv", "Ravenous Hydra",
             "Berserker's Greaves", "The Black Cleaver", "Statikk Shiv", "Mercurial Scimitar"
         };
 
@@ -682,8 +682,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Twitch =
         {
-            "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Infinity Edge", "Berserker's Greaves",
+            "Runaan's Hurricane", "Mercurial Scimitar", "Phantom Dancer", "Lord Dominik's Regards"
         };
 
         public static string[] Udyr =
@@ -701,13 +701,13 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Varus =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Vayne =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Statikk Shiv"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Frozen Mallet"
         };
 
         public static string[] Veigar =
@@ -718,8 +718,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Velkoz =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Rabadon's Deathcap", "Rylai's Crystal Scepter", "Luden's Echo"
+            "Morellonomicon", "Luden's Echo",
+            "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Rylai's Crystal Scepter"
         };
 
         public static string[] Vi =
@@ -730,13 +730,13 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Viktor =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
-            "Sorcerer's Shoes", "Perfect Hex Core", "Rabadon's Deathcap", "Void Staff"
+            "Morellonomicon", "Perfect Hex Core",
+            "Sorcerer's Shoes", "Luden's Echo", "Rabadon's Deathcap", "Void Staff"
         };
 
         public static string[] Vladimir =
         {
-            "Will of the Ancients", "Rabadon's Deathcap",
+            "Warmog's Armor", "Rabadon's Deathcap",
             "Sorcerer's Shoes", "Spirit Visage", "Zhonya's Hourglass", "Liandry's Torment"
         };
 
@@ -755,7 +755,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] MonkeyKing =
         {
             "Youmuu's Ghostblade", "The Black Cleaver",
-            "Ninja Tabi", "Maw of Malmortius", "Statikk Shiv", "Ravenous Hydra (Melee Only)"
+            "Ninja Tabi", "Maw of Malmortius", "Statikk Shiv", "Ravenous Hydra"
         };
 
         public static string[] Xerath =
@@ -767,7 +767,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] XinZhao =
         {
             "Blade of the Ruined King", "Youmuu's Ghostblade",
-            "Mercury's Treads", "Infinity Edge", "Ravenous Hydra (Melee Only)", "Randuin's Omen"
+            "Mercury's Treads", "Infinity Edge", "Ravenous Hydra", "Randuin's Omen"
         };
 
         public static string[] Yasuo =
@@ -802,7 +802,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Zilean =
         {
-            "Athene's Unholy Grail", "Morellonomicon",
+            "Athene's Unholy Grail", "Mikael's Crucible",
             "Sorcerer's Shoes", "Rabadon's Deathcap", "Void Staff", "Luden's Echo"
         };
 
